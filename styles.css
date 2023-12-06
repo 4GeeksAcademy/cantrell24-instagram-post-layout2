@@ -1,0 +1,49 @@
+.icon{
+    height: 50px;
+    width: auto;
+}
+
+.right{
+    margin-left: auto;
+ }
+
+ .post{
+    background: white;
+    width: 500px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+ }
+ body{
+    display: flex; 
+    align-items: center;
+    flex-direction: column; 
+    background-color: rgb(0, 0, 0);
+ }
+
+ .caption{
+    padding: 2%;
+}
+
+.icon{
+    height: 50px;
+    width: auto;
+}
+
+.post-icons{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    margin-bottom: 0%
+}
+
+.right{
+   margin-left: auto;
+}
+
+.float{
+    margin-top: -4%;
+}
+
+header{
+    margin-bottom: -5%;
+}
